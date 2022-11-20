@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html  lang="en">
+<head>
+    <meta charset="UTF 8">
+<title>BriMaBrAinMan website</title>
+<link rel="stylesheet" text="text/css" href="css/style.css">
+<link rel=”stylesheet” href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+<body>
+
+  <header class="main">  
+    <div class="wrapper"> 
+      <ul>
+    <li><a href="#CONTACT">CONTACT</a></li>
+   <li><a href="#HOME">HOME</a></li>
+   <li><a href="#MUSIC/VEDIOS">MUSIC/VEDIOS</a></li>
+   <li><a href="#BIO">BIO</a></li>
+   <li><a href="#GALLERY">GALLERY </a></li>
+      </ul>
+  </div>
+
+    <div class="CONTACT" id="CONTACT">
+      <div class="content">
+          <ul>
+              <li><div class="button">
+                <div class="icon">
+             <i class="fa fa-youtube"></i>       
+                  <img align="left" src="C:\Users\ShazzyB\Desktop\web\3.png" alt="3.png"> 
+                  <span>youtube</span></li> 
+              <li><div class="button">
+                <div class="icon"> 
+                  <i class="fa fa-instagram"></i>
+                  <img align="left" src="C:\Users\ShazzyB\Desktop\web\4.png" alt="4.png">
+                  <span>instagram</span></li>
+              <li><div class="button">
+                  <div class="icon">
+                 <i class="fa fa-facebook"></i> 
+                <img align="left" src="C:\Users\ShazzyB\Desktop\web\2.png" alt="2.png">
+                  <span>facebook</span></li>
+              <li><div class="button">
+                <div class="icon">
+                    <i class="fa fa-twitter"></i>
+                  <img align="left" src="C:\Users\ShazzyB\Desktop\web\6.png" alt="6.png">
+                  <span>twitter</span></li>
+              <li><div class="button"> 
+                  <div class="icon">
+                       <i class="fa fa-linkedin"></i>
+                  <img align="left" src="C:\Users\ShazzyB\Desktop\web\7.png" alt="7.png"> 
+                  <span>linkedin</span></li>
+                  <li><div class="button">
+                       <div class="icon">
+                       <i class="fa fa-tiktok"></i>
+                       <img align="left" src="C:\Users\ShazzyB\Desktop\web\5.png" alt="5.png">
+                       <span>tiktok</span></li>
+                       </ul> 
+          </div>
+          <div class="home" id="home">
+            <div class="content">
+        
+              <h1>WATCH VEDIOS</h1><br>
+              <p>Musician/vediographer from Kenya who aspires to be one of the greatest to ever do it</p><br>
+                <a href="#" class="btn">WATCH A VEDIO NOW</a>
+            </div><br>
+        </header>
+</body>
+</html>
